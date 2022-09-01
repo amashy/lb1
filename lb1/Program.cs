@@ -13,6 +13,7 @@ namespace lb1
             Console.WriteLine("123");
             Console.WriteLine("12322");
             Console.WriteLine("1232222222");
+            Console.WriteLine("12322346");
         }
     }
 }
